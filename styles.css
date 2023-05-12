@@ -1,0 +1,15 @@
+.paper-sketch {
+  background-color: rgb(235, 225, 193);
+  width: 1000px;
+  height: 600px;
+  margin: 40px auto;
+}
+
+.point {
+  background-color:rgba(27, 27, 26, 0.726);
+  width: 10px;
+  height: 10px;
+  position: relative;
+  left:100px;
+  top:200px;
+}
